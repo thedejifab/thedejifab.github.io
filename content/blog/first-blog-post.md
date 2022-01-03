@@ -4,7 +4,7 @@ date: 2022-01-03T21:54:47+01:00
 slug: "why-doing-this"
 description: "In this post, I talk about why I'm giving blogging another go, starting January 2022 :)"
 keywords: []
-draft: true
+draft: false
 tags: []
 math: false
 toc: false
