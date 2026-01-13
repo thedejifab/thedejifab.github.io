@@ -20,8 +20,8 @@ copyright = "© {year}"
   dateFormat = "Jan 2 2006"
 
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
-  twitter = "https://twitter.com/roscoefab"
-  github = "https://github.com/thedejifab"
+  #twitter = "https://twitter.com/roscoefab"
+  #github = "https://github.com/thedejifab"
   email = "mailto:dejifabusuyi@gmail.com"
   linkedin = "https://www.linkedin.com/in/ayodeji-f-177084134/"
   # mastodon = "https://mastodon.social/@nickname"
