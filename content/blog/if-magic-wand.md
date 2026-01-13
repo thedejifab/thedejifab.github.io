@@ -1,7 +1,7 @@
 ---
 title: "If I had a magic wand"
 date: 2026-01-07T21:54:47+01:00
-slug: "on-first-impressions"
+slug: "if-magic-wand"
 description: "In this post, I talk about first impressions"
 keywords: []
 draft: false
