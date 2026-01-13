@@ -1,7 +1,7 @@
 ---
 title: "Why I enjoy watching plays"
 date: 2026-01-01T21:54:47+01:00
-slug: "on-first-impressions"
+slug: "why-plays"
 description: "In this post, I talk about first impressions"
 keywords: []
 draft: false
