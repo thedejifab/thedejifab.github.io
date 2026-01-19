@@ -31,3 +31,5 @@ their celebrations under same circumstances.
 
 Here's the thought that came to my mind when they got off the train - 'Why do people get less "as free as this" the older they get?'. 
 I'm not sure I have an answer to that question. And at the moment, I'm even more unsure about whether it's a question worth having an answer to.
+
+End.
