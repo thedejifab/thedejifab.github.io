@@ -1,6 +1,6 @@
 ---
 title: "Random note on train journeys and expressions of happiness"
-date: 2025-12-06T21:54:47+01:00
+date: 2026-01-19T21:54:47+01:00
 slug: "train-happiness-expressions"
 description: "Random note on train journeys and expressions of happiness"
 keywords: []
