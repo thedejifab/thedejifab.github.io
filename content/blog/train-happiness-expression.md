@@ -12,6 +12,7 @@ toc: false
 
 Below is an extract from a piece I wrote on my way home from a hike back in 2025.
 
+
 ---
 
 Being on the train solo is usually eventful for me. 
