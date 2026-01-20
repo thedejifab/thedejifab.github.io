@@ -4,7 +4,7 @@ theme = "codex"
 # Override these settings with your own
 title = "Ayodeji Fabusuyi"
 languageCode = "en-us"
-baseURL = "https://thedejifab.github.io"
+baseURL = "https://dejifabusuyi.com"
 copyright = "© {year}"
 
 # Add your Disqus shortname here.
