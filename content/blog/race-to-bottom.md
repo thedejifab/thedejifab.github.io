@@ -1,6 +1,6 @@
 ---
 title: "Race to the Bottom"
-date: 2026-04-13T08:54:47+01:00
+date: 2026-05-13T08:54:47+01:00
 slug: "race-to-bottom"
 description: "Race to the Bottom"
 keywords: []
