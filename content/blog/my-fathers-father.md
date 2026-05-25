@@ -1,5 +1,5 @@
 ---
-title: "My father's father"
+title: "My Father's Father"
 date: 2026-05-25T17:15:47+01:00
 slug: "my-fathers-father"
 description: "In this post, I talk about an impression from a conversation I had with my father."
@@ -24,6 +24,7 @@ Prior to that conversation last year, I already made it a mission to take a ton 
 I recently went back to one of such recordings which I made at my family house on the first night of my last visit to Nigeria. The recording featured me, two of my closest friends (safe to call them brothers), my mum and my dad talking about everything from life to Lagos and politics. I’ve now arrived at a conclusion that that was the best night of my visit.
 
 As you can tell, I’m still not great at titles because this hasn’t really been about my father’s father, has it? But that’s beside the point. Your parents did not have these technologies. You do. What will your excuse be?
+<br>
 
 ---
 
