@@ -1,6 +1,6 @@
 ---
 title: "The Inconvenience of Community"
-date: 2026-08-25T21:54:47+01:00
+date: 2026-08-27T21:54:47+01:00
 slug: "community"
 description: "On The Inconvenience of Community"
 keywords: []
