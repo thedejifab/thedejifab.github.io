@@ -30,3 +30,6 @@ Interestingly, something that I’ve found to work in building your own communit
 
 In the end, perhaps the more important question to take away from this is how much inconvenience we're willing to accept in exchange for the kind of community we want to build.
 
+---
+
+_Thanks to Tassia for helping to proofread this._
