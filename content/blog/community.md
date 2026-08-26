@@ -1,6 +1,6 @@
 ---
 title: "The Inconvenience of Community"
-date: 2026-08-27T21:54:47+01:00
+date: 2026-08-26T16:54:47+01:00
 slug: "community"
 description: "On The Inconvenience of Community"
 keywords: []
@@ -29,7 +29,3 @@ In conversations about building a community, I find social media to be a recurri
 Interestingly, something that I’ve found to work in building your own community when applied correctly is joining offline social and activity (book, hike etc) clubs. I say “when applied correctly” because if you join such clubs but don’t go out of your way to say hello to people, or you don’t show up repeatedly enough for other people to identify, and _identify with_, you, then you never build that intimacy either. 
 
 In the end, perhaps the more important question to take away from this is how much inconvenience we're willing to accept in exchange for the kind of community we want to build.
-
----
-
-_Thanks to Tassia for helping to proofread this._
