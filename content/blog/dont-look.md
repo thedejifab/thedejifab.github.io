@@ -14,7 +14,7 @@ Struggling writer here again. In the last 2 weeks I’ve debated what to write. 
 
 What I’ve decided to write about is very different from what those topics offered. I recently came across a tweet from a UC Berkeley researcher on the concept of reward hacking for LLMs. The tweet discussed a two-gap problem in AI (read LLMs in this case) that causes reward hacking (_don't look it up, yet_).
 
-I found the tweet very interesting, so I thought to read the full paper by said researcher [1]. Having done so, I set out an exercise for myself: to lie idle on my sofa and come up with examples of reward hacking. The examples had to be real life and simple, but they also needed to not be oversimplified.
+I found the tweet very interesting, so I thought to read the full paper by said researcher. Having done so, I set out an exercise for myself: to lie idle on my sofa and come up with examples of reward hacking. The examples had to be real life and simple, but they also needed to not be oversimplified.
 
 The rationale behind this sort of exercise is something impressed on me in my uni days by my thesis advisor - the notion that the final form of understanding inherently complex topics was being able to explain it with real life examples without oversimplifying it. He had a knack for explaining things in this manner, and by my recollection, he taught an entire course on the theory of computation in this way.
 
@@ -31,11 +31,3 @@ A more _ELI5_ (_ELI10_ maybe?) example I came up with is to imagine the time whe
 Hopefully, a definition of reward hacking has formed in your head at this point. A useful exercise is to pause reading and try to define it in your own words.
 
 To end on a more defined note, reward hacking _is_ what happens when an AI model tries to optimise its actions for the rewards of a requirement without having met the intent behind that requirement, and when AI systems do this, it’s not necessarily with malicious intent.
-
----
-
-### References
-
-<div style="font-size: 0.9em; line-height: 1.5;">
-  <p>[1] Alexander Krentsel et al. "<a href="https://arxiv.org/abs/2609.12039">Reality Is the Final Verifier: On Two Key Gaps in Agentic Software Engineering</a>."</p>
-</div>
